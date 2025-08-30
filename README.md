@@ -22,9 +22,9 @@ This project is a **student placement tracking dashboard** built using **Python,
 
 ## 🧾 How to Run this Project
 
-- git clone https://github.com/keshavjatt/placement-eligibility-app.git 
 - cd placement-eligibility-app
 - pip install -r requirements.txt
 - python db/create_tables.py
 - python db/insert_fake_data.py
+
 - streamlit run main.py
